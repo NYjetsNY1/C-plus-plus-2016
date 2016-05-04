@@ -14,7 +14,7 @@ void FizzBuzz();
 // Write a program that prints the numbers from 1 to 100.
 // For multiples of three print “Fizz” instead of the number.
 // For multiples of five print “Buzz” instead of the number.
-// For numbers which are multiples of both three and five print “FizzBuzz”.
+// For numbers which are multiples of both three and five print “FizzBuzz”,
 // instead of Fizz, Buzz, or the number.
 void FizzBuzz() {
     for (size_t i = 1; i <= 100; i++) {
